@@ -1,0 +1,50 @@
+# Build files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.Generated.cs
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Visual Studio-specific
+.vscode/
+.idea/
+.vs/
+*.csproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Other files to ignore
+coverage/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.class
+*.jar
+*.war
+*.pyc
+node_modules/

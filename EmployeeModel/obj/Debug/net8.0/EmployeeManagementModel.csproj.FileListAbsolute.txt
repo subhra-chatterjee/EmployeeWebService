@@ -1,0 +1,11 @@
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\bin\Debug\net8.0\EmployeeManagementModel.deps.json
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\bin\Debug\net8.0\EmployeeManagementModel.dll
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\bin\Debug\net8.0\EmployeeManagementModel.pdb
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.AssemblyInfoInputs.cache
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.AssemblyInfo.cs
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.csproj.CoreCompileInputs.cache
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.dll
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\refint\EmployeeManagementModel.dll
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\EmployeeManagementModel.pdb
+C:\Users\subhrajit\source\repos\EmployeeWebService\EmployeeModel\obj\Debug\net8.0\ref\EmployeeManagementModel.dll

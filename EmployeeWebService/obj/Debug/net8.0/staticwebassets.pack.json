@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\subhrajit\\source\\repos\\EmployeeWebService\\EmployeeWebService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmployeeWebService.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeWebService.6aymw0o4bk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\subhrajit\\source\\repos\\EmployeeWebService\\EmployeeWebService\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\subhrajit\\source\\repos\\EmployeeWebService\\EmployeeWebService\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\subhrajit\\source\\repos\\EmployeeWebService\\EmployeeWebService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\subhrajit\\source\\repos\\EmployeeWebService\\EmployeeWebService\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeWebService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeWebService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeWebService.props",
+      "PackagePath": "build\\EmployeeWebService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeWebService.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeWebService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeWebService.props",
+      "PackagePath": "buildTransitive\\EmployeeWebService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
