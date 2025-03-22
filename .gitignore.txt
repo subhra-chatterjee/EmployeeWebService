@@ -1,4 +1,4 @@
-# Build files
+# Build output directories
 bin/
 obj/
 out/
@@ -21,30 +21,37 @@ out/
 *.bak
 ~$*
 
-# Visual Studio-specific
+# Visual Studio and IDE-specific
 .vscode/
 .idea/
 .vs/
 *.csproj.user
 
-# OS files
+# OS-specific files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# NuGet
+# NuGet packages
 *.nupkg
 packages/
 project.lock.json
 
-# Other files to ignore
-coverage/
-*.dll
-*.exe
-*.pdb
-*.mdb
-*.class
-*.jar
-*.war
-*.pyc
+# Dependency directories
 node_modules/
+
+# Razor page compilation files
+*.razor.g.cs
+*.razor.g.i.cs
+
+# Coverage files
+coverage/
+
+# Publish output
+wwwroot/dist/
+wwwroot/.pubxml/
+wwwroot/.publish/
+
+# Sensitive configuration files (ensure safety)
+appsettings.json
+appsettings.*.json
